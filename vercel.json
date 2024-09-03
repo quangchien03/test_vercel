@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+      { "source": "/", "destination": "/ktra_diem_b.html" }
+    ]
+  }
+  
